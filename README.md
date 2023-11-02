@@ -1,7 +1,6 @@
-# Realtime Chat Application
+# Realtime Chat & Video call Application
 
-
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+(https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 # Real-Time Video Conferencing System using WebRTC
 
@@ -30,10 +29,10 @@ Follow these steps to set up the project locally:
 ### Installation
 
 1. Clone the repository:
-      git clone https://github.com/yourusername/your-repo.git
+      git clone https://github.com/Sainith123/LetsMeet.git
 
 2. Navigate to the project directory:
-      cd your-repo
+      cd LetsMeet
 
 3. Install dependencies :
       npm install
