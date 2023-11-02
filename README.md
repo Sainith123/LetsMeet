@@ -7,8 +7,6 @@
 
 A robust real-time video conferencing system built with Node.js and WebRTC technology for seamless virtual communication and collaboration.
 
-![Project Screenshot](/path/to/screenshot.png)
-
 ## Features
 
 - **Real-Time Video Conferencing:** Enjoy high-quality, real-time video communication with your team or peers.
@@ -32,17 +30,13 @@ Follow these steps to set up the project locally:
 ### Installation
 
 1. Clone the repository:
-
-   git clone https://github.com/yourusername/your-repo.git
+      git clone https://github.com/yourusername/your-repo.git
 
 2. Navigate to the project directory:
-
-    cd your-repo
+      cd your-repo
 
 3. Install dependencies :
-
-   npm install
+      npm install
 
 4.Start the application:
-
-  npm start
+      npm start
